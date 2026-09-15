@@ -1548,4 +1548,3 @@ NegEval['FixD'].std() # 621.7966397740131
 # todo The two assumptions for actually modelling the HMM parameters were made afterwards in the LDA script
 ########################################################################################################################
 
-
