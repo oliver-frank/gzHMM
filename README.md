@@ -9,7 +9,7 @@
 1. Transformation.py
 2. Preprocessing.py
 3. HMM.m - modelling
-4. simulatedPC_visual.py - PCA embedding
-5. LDA.py
+4. LDA.py
+5. simulatedPC_visual.py - posthoc visualization
 
 
