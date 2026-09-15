@@ -479,4 +479,3 @@ Smooth Pursuit: 40
 ########################################################################################################################
 # filtered_df = df_cond1_gridCond3[df_cond1_gridCond3['SmoothPursuit'].notnull()]
 
-
